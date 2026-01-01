@@ -1,5 +1,6 @@
 # -ShubhayuTech
 Passionate about learning Python and Data Science.
+
 Hey there! 👋
 
 
@@ -12,7 +13,8 @@ I enjoy working with libraries like NumPy, Pandas, and Matplotlib, and I’m gra
 Most of my repositories are learning-based projects, practice programs, and academic work — each one helping me grow step by step.
 I’m actively learning, improving, and preparing for internships and real-world challenges.
 
- Skills & Tools
+ #Skills & Tools
+ 
 **Programming:** Python  
 **Libraries:** NumPy, Pandas, Matplotlib (learning)  
 **Concepts:** Data Analysis, Statistics,Probability,ML. 
